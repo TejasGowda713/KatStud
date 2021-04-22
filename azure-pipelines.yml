@@ -6,8 +6,6 @@ pool:
   vmImage: 'windows-latest'
 
 steps:
-
-
 - task: katalonTask@0
   inputs:
     location: 'C:\Users\TejasGowdaS\Downloads\Katalon_Studio_Windows_64-7.9.1'
